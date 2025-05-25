@@ -86,10 +86,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="vaishnavisudarsanam11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
+  <a href="https://www.linkedin.com/in/vaishnavi-s-629813269/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Vaishu-Develops">
