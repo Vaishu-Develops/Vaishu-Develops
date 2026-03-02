@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FFD9&text=VAISHNAVI%20S.&fontSize=70&desc=Full%20Stack%20%E2%80%A2%20Gen%20AI%20%E2%80%A2%20Innovator&descSize=20&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ffd9&height=160&section=header&text=VAISHNAVI%20S.&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=00ffd9" width="100%"/>
 
   <a href="https://github.com/Vaishu-Develops">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences+%E2%9C%A8;MERN+Stack+Maestro+%F0%9F%92%BB;Generative+AI+Explorer+%F0%9F%A4%96;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=ARCHITECTING+INTELLIGENCE;MERN+STACK+MAESTRO;GEN-AI+INNOVATOR;CLASS+OF+2026" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -14,45 +14,60 @@
 
 ---
 
-### ⚡ Quick Byte
-I'm a **CS Undergrad (Class of 2026)** and a recognized top-performing developer. I specialize in the **MERN Stack** and **Generative AI**, focusing on building tools that actually solve problems. Whether it's a hyperlocal marketplace or an AI financial analyst, I build for scale and speed.
+### 🚀 Mission Protocol
+I am a **Computer Science Engineer (Class of 2026)** specializing in the convergence of **Generative AI** and **Scalable Full-Stack Architecture**. Recognized as a **Top Performer** during my professional tenures, I build autonomous agent systems and high-integrity web platforms that bridge the gap between human intent and machine execution.
 
-- 🏆 **Hackathons:** Innovator behind **RentMate** (MSME IDEA HACKATHON 5.0).
-- 🧠 **AI Focus:** Agentic workflows with CrewAI and LangChain.
-- 💼 **Experience:** Recognized for excellence in MERN and GenAI internships.
+- 🧠 **AI Orchestration:** Engineering multi-agent workflows with CrewAI, LangChain, and RAG pipelines.
+- 🏗️ **Core Stack:** Master of the MERN ecosystem (MongoDB, Express, React, Node.js).
+- 🏆 **Innovation:** Recognized at **MSME IDEA HACKATHON 5.0** for **RentMate**.
+- 💼 **Experience:** Proven excellence in Frontend, MERN, and GenAI development roles.
 
 ---
 
-### 🛠️ The Toolkit
+### ⚒️ Tech Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,python,flask,c,aws,docker,linux,figma&perline=6" />
 </div>
 
+<p align="center">
+  <b>Advanced Intelligence:</b> LangChain • Hugging Face • Gemini API • CrewAI • Vector DBs
+</p>
+
 ---
 
-### 🌟 Top Productions
+### 📂 Strategic Projects
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="left">
         <b>🤖 Multi-Agent Stock Analyzer</b><br/>
-        Llama-powered financial intelligence for global markets.
+        Financial intelligence platform powered by Llama 4 & SambaNova.
       </td>
       <td width="50%" align="left">
-        <b>🛡️ Deep Secure Stego</b><br/>
-        Next-gen AI steganography for cybersecurity.
+        <b>🛡️ SarpGuard</b><br/>
+        Cybersecurity-focused tool ensuring robust and safe web development.
       </td>
     </tr>
     <tr>
       <td width="50%" align="left">
         <b>🏠 RentMate</b><br/>
-        Hyperlocal real-estate platform for the MSME ecosystem.
+        Award-winning real-estate platform built for the MSME ecosystem.
       </td>
       <td width="50%" align="left">
+        <b>🔐 Deep Secure Stego</b><br/>
+        AI-driven steganography generator blending ML with security.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="left">
         <b>⚡ SyncSpace</b><br/>
-        Real-time collaboration hub with WebSockets and Kanban.
+        Real-time collaboration hub featuring Socket.io and Kanban.
+      </td>
+      <td width="50%" align="left">
+        <b>🤝 GigConnect</b><br/>
+        Hyperlocal freelance marketplace with complex dual-role auth.
       </td>
     </tr>
   </table>
@@ -60,27 +75,27 @@ I'm a **CS Undergrad (Class of 2026)** and a recognized top-performing developer
 
 ---
 
-### 📊 Performance Dashboard
+### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD9&icon_color=00FFD9&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD9&icon_color=00FFD9&text_color=ffffff" height="180" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD9&text_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD9&text_color=ffffff" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishu-Develops&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFD9&ring=00FFD9&fire=00FFD9" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishu-Develops&theme=radical&hide_border=true&background=0D1117&stroke=00FFD9&ring=00FFD9&fire=00FFD9" width="100%" />
 </div>
 
 ---
 
-### 📈 Activity Pulse
+### 📈 Contribution Pulse
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishu-Develops&theme=tokyonight&bg_color=0D1117&color=00FFD9&line=00FFD9&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishu-Develops&theme=radical&bg_color=0D1117&color=00FFD9&line=00FFD9&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFD9&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffd9,100:000000&height=40&section=footer" width="100%"/>
 </div>
