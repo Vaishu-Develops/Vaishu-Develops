@@ -1,97 +1,12 @@
-<!-- NEURAL HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050510,50:0a0a2e,100:050510&height=160&section=header&text=VAISHNAVI%20S.&fontSize=62&animation=blinking&fontColor=00FFD9&fontAlignY=55&desc=◈%20ARCHITECT%20OF%20INTELLIGENCE%20◈&descSize=14&descAlignY=78&descAlign=50&stroke=00FFD9&strokeWidth=1" width="100%"/>
-
-</div>
-
-<!-- TYPING EFFECT -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00FFD9&center=true&vCenter=true&width=700&height=45&lines=%E2%96%B8+FULL+STACK+GEN-AI+DEVELOPER+%E2%97%82;%E2%96%B8+MULTI-AGENT+SYSTEMS+ENGINEER+%E2%97%82;%E2%96%B8+BUILDING+THE+FUTURE+ONE+MODEL+AT+A+TIME+%E2%97%82;%E2%96%B8+CLASS+OF+2026+%7C+TOP+PERFORMER+%E2%97%82" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,30:0B0C2A,70:0B0C2A,100:03001C&height=220&section=header&text=VAISHNAVI%20S&fontSize=72&fontColor=E8F4FD&fontAlignY=45&animation=fadeIn&desc=◦%20GEN-AI%20%C3%97%20MERN%20%C3%97%20FULL-STACK%20ENGINEER%20◦&descAlignY=68&descSize=16&descFontColor=5CE1E6&stroke=5CE1E6&strokeWidth=2" width="100%"/>
 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
 
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFD9&labelColor=0D1117&color=00FFD9)](https://www.linkedin.com/in/vaishnavi-s-629813269/)&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/◈_GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3C6E&labelColor=0D1117&color=FF3C6E)](mailto:vaishnavisudarsanam11@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=7000FF&labelColor=0D1117&color=7000FF)](https://github.com/Vaishu-Develops)
-
-</div>
-
-<br/>
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  SYSTEM :: IDENTITY_MATRIX v2026                                     ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  DESIGNATION  ▸  Computer Science Engineer [Class of 2026]           ║
-║  CORE_FOCUS   ▸  Generative AI × Full-Stack Scalability              ║
-║  STATUS       ▸  [■■■■■■■■■■] TOP PERFORMER — INTERNSHIP VERIFIED    ║
-║  MISSION      ▸  Architecting intelligent ecosystems at scale         ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-### `> LOADING PROFILE...`
-
-> ⚡ I don't ship apps. I **architect intelligent ecosystems** that think, scale, and outlast.
-> Fueled by an obsession with **Generative AI** and a precision-first engineering mindset —
-> turning complex logic into seamless, high-performance human experiences.
-
-<table>
-<tr>
-<td width="33%">
-
-```yaml
-MODULE: Innovation
-PROJECT: RentMate
-EVENT: MSME IDEA HACKATHON 5.0
-ROLE: Participant
-STATUS: [SHIPPED]
-```
-
-</td>
-<td width="33%">
-
-```yaml
-MODULE: Intelligence
-STACK: CrewAI + LangChain
-TYPE: Multi-Agent Workflows
-MODELS: Llama 4 // GPT-4o
-STATUS: [ACTIVE]
-```
-
-</td>
-<td width="33%">
-
-```yaml
-MODULE: Security
-DOMAIN: AI-Driven Detection
-TOOLS: Steganography + ML
-PROJECT: SarpGuard
-STATUS: [ARMED]
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### `> WEAPON_SYSTEMS :: INITIALIZED`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,python,flask,c,aws,docker,linux,figma&perline=12&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=18&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=750&height=50&lines=Generative+AI+Developer+%7C+Class+of+2026;MERN+Stack+Engineer+%7C+Top+Performer;Multi-Agent+Systems+%7C+LangChain+%2B+CrewAI;Building+Intelligent+Full-Stack+Ecosystems" alt="Typing SVG" />
 
 </div>
 
@@ -99,58 +14,113 @@ STATUS: [ARMED]
 
 <div align="center">
 
-| LAYER | STACK |
-|:---:|:---|
-| `FRONTEND` | React · TypeScript · Figma |
-| `BACKEND` | Node.js · Express · Flask · Python |
-| `DATABASE` | MongoDB · Vector DBs |
-| `AI/ML` | LangChain · CrewAI · Llama 4 · HuggingFace |
-| `INFRA` | AWS · Docker · Linux |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B0C2A.svg?style=for-the-badge&logo=linkedin&logoColor=5CE1E6)](https://www.linkedin.com/in/vaishnavi-s-629813269/)
+[![Gmail](https://img.shields.io/badge/Gmail-%230B0C2A.svg?style=for-the-badge&logo=gmail&logoColor=FF6B9D)](mailto:vaishnavisudarsanam11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%230B0C2A.svg?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/Vaishu-Develops)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=donut&theme=transparent&hide_border=true&title_color=5CE1E6&text_color=E8F4FD&bg_color=0B0C2A"/>
+
+### 〔 01 〕 WHO AM I
+
+**Computer Science Engineer** graduating in 2026 — obsessed with the intersection of **Generative AI** and **scalable full-stack systems**.
+
+I build things that think. Whether it's wiring up multi-agent pipelines, crafting real-time MERN apps, or engineering AI-powered security layers — I treat every project as a system design problem.
+
+- 🧠 Multi-agent workflows via **CrewAI** & **LangChain**
+- 🌐 Full-stack apps with the **MERN stack** at their core
+- 🛡️ AI-driven security: snake detection, steganography, threat classification
+- 🚀 Participated in **MSME IDEA Hackathon 5.0** with RentMate
+- 🏅 Recognized **Top Performer** across internships
+
+<br clear="right"/>
+
+---
+
+### 〔 02 〕 TECH ARSENAL
+
+<div align="center">
+
+**— MERN STACK CORE —**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0B0C2A?style=for-the-badge&logo=mongodb&logoColor=5CE1E6)
+![Express](https://img.shields.io/badge/Express-0B0C2A?style=for-the-badge&logo=express&logoColor=E8F4FD)
+![React](https://img.shields.io/badge/React-0B0C2A?style=for-the-badge&logo=react&logoColor=5CE1E6)
+![Node.js](https://img.shields.io/badge/Node.js-0B0C2A?style=for-the-badge&logo=nodedotjs&logoColor=5CE1E6)
+
+**— AI / GEN-AI LAYER —**
+
+![Python](https://img.shields.io/badge/Python-0B0C2A?style=for-the-badge&logo=python&logoColor=FF6B9D)
+![LangChain](https://img.shields.io/badge/LangChain-0B0C2A?style=for-the-badge&logo=chainlink&logoColor=A78BFA)
+![Flask](https://img.shields.io/badge/Flask-0B0C2A?style=for-the-badge&logo=flask&logoColor=E8F4FD)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0B0C2A?style=for-the-badge&logo=huggingface&logoColor=FF6B9D)
+
+**— INFRA & TOOLING —**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0C2A?style=for-the-badge&logo=typescript&logoColor=5CE1E6)
+![AWS](https://img.shields.io/badge/AWS-0B0C2A?style=for-the-badge&logo=amazonwebservices&logoColor=FF6B9D)
+![Docker](https://img.shields.io/badge/Docker-0B0C2A?style=for-the-badge&logo=docker&logoColor=5CE1E6)
+![Linux](https://img.shields.io/badge/Linux-0B0C2A?style=for-the-badge&logo=linux&logoColor=E8F4FD)
+![Figma](https://img.shields.io/badge/Figma-0B0C2A?style=for-the-badge&logo=figma&logoColor=A78BFA)
 
 </div>
 
 ---
 
-### `> PRODUCTION_MANIFEST :: CLASSIFIED`
+### 〔 03 〕 PROJECT DOSSIER
 
-<div align="center">
+<details open>
+<summary><b>🤖 &nbsp; AI × SECURITY SYSTEMS</b></summary>
+<br/>
 
-| `⬡ AI × SECURITY DIVISION` | `⬡ FULL STACK DIVISION` |
-|:---|:---|
-| **◈ Multi-Agent Stock Analyzer**<br/>`Financial intelligence via Llama 4 + SambaNova`<br/>_Analyzes US, Indian & European markets in real-time_ | **◈ RentMate**<br/>`MSME IDEA HACKATHON 5.0 — Participant`<br/>_Full rental ecosystem platform_ |
-| **◈ SarpGuard**<br/>`AI-Powered Dual-Layer Snake Detection`<br/>_Real-time webcam + video threat classification_ | **◈ SyncSpace**<br/>`MERN + Socket.io`<br/>_Kanban · Docs · Chat · File versioning hub_ |
-| **◈ Deep Secure Steganography**<br/>`Deep Learning + AES Cryptography`<br/>_Hides images & text inside cover images_ | **◈ GigConnect**<br/>`Hyperlocal MERN Marketplace`<br/>_Dual-role auth · gigs · real-time chat_ |
-| **◈ AI CGAP Calculator**<br/>`TypeScript — Private`<br/>_AI-powered grade analytics tool_ | **◈ Payer Side Dashboard**<br/>`Healthcare Analytics Platform`<br/>_SOC management for payer organizations_ |
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**Multi-Agent Stock Analyzer**](https://github.com/Vaishu-Develops/Multi-Agent-Stock-Analyzer) | Autonomous financial intelligence for US, Indian & EU markets via Llama 4 + SambaNova | JS · LangChain · CrewAI |
+| [**SarpGuard**](https://github.com/Vaishu-Develops/SarpGuard) | Dual-layer AI snake detection & alert system via webcam or uploaded footage | Python · TensorFlow · JS |
+| [**Deep Secure Steganography**](https://github.com/Vaishu-Develops/AI_Powered_Deep_Secure_Steganography_Generator) | Hides images & text inside cover images using Deep Learning + AES encryption | Python · CNN · Flask |
+| **AI CGAP Calculator** | AI-powered grade analytics engine | TypeScript · Private |
+| [**Gen-AI Code Reviewer**](https://github.com/Vaishu-Develops/Gen-AI-Code-reviewer) | Automated code review powered by generative AI | Python |
+| [**MentalHealth Chatbot**](https://github.com/Vaishu-Develops/MentalHealth-Chatbot) | Empathetic AI chatbot for mental wellness support | Python · NLP |
+| [**AITutor**](https://github.com/Vaishu-Develops/AITutor) | Personalized AI-driven tutoring system | Python |
 
-</div>
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🌐 &nbsp; MERN × FULL STACK SYSTEMS</b></summary>
+<br/>
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**SyncSpace**](https://github.com/Vaishu-Develops/SyncSpace) | Real-time collaboration hub: Kanban, live docs, project chat, file versioning | MERN · Socket.io |
+| [**GigConnect**](https://github.com/Vaishu-Develops/GigConnect) | Hyperlocal freelance marketplace with dual-role auth, gigs, real-time chat | MERN · JWT |
+| [**RentMate**](https://github.com/Vaishu-Develops/RentMate) | Rental ecosystem platform — MSME IDEA Hackathon 5.0 participant | MERN |
+| [**Payer Side Dashboard**](https://github.com/Vaishu-Develops/Payer_Side) | Healthcare SOC management analytics for payer orgs | JS · Node |
+| [**Blog Platform**](https://github.com/Vaishu-Develops/blog-platform) | Full-featured blog engine with auth & rich text | TypeScript · MERN |
+| [**AI Travel Planner**](https://github.com/Vaishu-Develops/AI-Powered-Travel_Planner) | AI-generated itinerary planner | Python · Flask |
+| [**Food Ordering Web**](https://github.com/Vaishu-Develops/Food-Ordering-Web) | End-to-end food ordering application | JavaScript |
+
+</details>
 
 ---
 
-### `> EXTENDED_MODULES :: ONLINE`
+### 〔 04 〕 SIGNAL METRICS
 
 <div align="center">
 
-| PROJECT | LANG | STATUS |
-|:---|:---:|:---:|
-| MentalHealth Chatbot | `Python` | ✅ Public |
-| AI-Powered Travel Planner | `Python` | ✅ Public |
-| Gen-AI Code Reviewer | `Python` | ✅ Public |
-| AITutor | `Python` | ✅ Public |
-| Audio-To-Text Conversion | `Python` | ✅ Public |
-| Data Analytics | `Jupyter` | ✅ Public |
-| Blog Platform | `TypeScript` | ✅ Public |
+<img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=transparent&hide_border=true&title_color=5CE1E6&icon_color=A78BFA&text_color=E8F4FD&bg_color=0B0C2A&ring_color=5CE1E6&include_all_commits=true&count_private=true" height="175"/>
 
 </div>
 
----
-
-### `> VITAL_SIGNS :: TRANSMITTING`
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=radical&hide_border=true&bg_color=050510&title_color=00FFD9&icon_color=7000FF&text_color=ffffff&border_radius=8" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=compact&theme=radical&hide_border=true&bg_color=050510&title_color=00FFD9&text_color=ffffff&border_radius=8" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishu-Develops&theme=transparent&hide_border=true&background=0B0C2A&stroke=5CE1E6&ring=A78BFA&fire=FF6B9D&currStreakLabel=5CE1E6&sideNums=E8F4FD&sideLabels=5CE1E6&dates=7B8FA1" width="75%"/>
 
 </div>
 
@@ -158,15 +128,7 @@ STATUS: [ARMED]
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishu-Develops&theme=radical&hide_border=true&background=050510&stroke=00FFD9&ring=7000FF&fire=FF3C6E&currStreakLabel=00FFD9&sideNums=ffffff&sideLabels=00FFD9&dates=888899&border_radius=8" width="80%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishu-Develops&theme=react-dark&bg_color=050510&color=00FFD9&line=7000FF&point=FF3C6E&area=true&hide_border=true&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishu-Develops&theme=react-dark&bg_color=03001C&color=5CE1E6&line=A78BFA&point=FF6B9D&area=true&area_color=5CE1E6&hide_border=true&radius=6" width="100%"/>
 
 </div>
 
@@ -174,15 +136,10 @@ STATUS: [ARMED]
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║   > COLLABORATION_PROTOCOL :: INITIALIZING...        ║
-║   > SIGNAL STRENGTH : [██████████] 100%             ║
-║   > NODE STATUS     : ONLINE & READY TO BUILD        ║
-║   > UPTIME          : ∞                              ║
-╚══════════════════════════════════════════════════════╝
-```
+**〔 open to collaborate · open to build · open to break things 〕**
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050510,50:0a0a2e,100:050510&height=80&section=footer&reversal=false&stroke=00FFD9&strokeWidth=1" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,30:0B0C2A,70:0B0C2A,100:03001C&height=100&section=footer&reversal=true&stroke=5CE1E6&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 </div>
