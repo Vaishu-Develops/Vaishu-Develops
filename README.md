@@ -1,19 +1,34 @@
+<!-- ██████████████████████████████████████████████████
+     HEADER — text SVG rendered inline, no external service
+     ██████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- HEADER: wave type, tilt, no blinking, clean font -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0f2a0f,100:162e16&height=280&section=header&text=Vaishnavi%20S.&fontSize=76&fontColor=a3e635&fontAlignY=45&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=68&descAlign=50&descSize=17&descFontColor=86efac" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d06,30:0a1a0a,60:112611,100:0a0a0a&height=300&section=header&text=VAISHNAVI%20S.&fontSize=82&fontColor=a3e635&fontAlignY=55&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=73&descAlign=50&descSize=17&descFontColor=86efac&stroke=a3e635&strokeWidth=1" width="100%"/>
 
 </div>
 
+<!-- STATUS BAR -->
 <div align="center">
 
-<!-- WORKING typing SVG — single line cycling, no multiline, no unicode blocks -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=680&lines=Building+RAG+pipelines+and+Agentic+AI+from+scratch;5x+Internships+%E2%80%94+Infosys+%7C+Innomatics+%7C+Top+Performer;96%25+accuracy+PCB+Defect+Classifier+shipped+to+production;Multi-Agent+systems+via+LangChain+and+CrewAI;MERN+%2B+PyTorch+%2B+Docker+%2B+AWS+full-cycle+delivery;Open+to+Opportunities+%E2%80%94+Let%27s+build+something+wild" alt="Typing SVG" />
+![Status](https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Opportunities-0d1a0d?style=for-the-badge&logoColor=a3e635&labelColor=0d1a0d&color=1a3a1a)
+&nbsp;
+![Degree](https://img.shields.io/badge/B.E.%20Computer%20Science%20%E2%80%94%20Class%20of%202026-0d1a0d?style=for-the-badge&labelColor=0d1a0d&color=1a3a1a)
+&nbsp;
+![Internships](https://img.shields.io/badge/5%C3%97%20Internships%20%E2%80%94%20Top%20Performer-0d1a0d?style=for-the-badge&labelColor=0d1a0d&color=1a3a1a)
 
 </div>
 
 <br/>
 
+<!-- MAIN TYPING SVG — single-line cycling, ASCII-safe only -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=680&lines=Building+RAG+pipelines+and+Agentic+AI+from+scratch;5x+Internships+%E2%80%94+Infosys+%7C+Innomatics+%7C+Top+Performer+across+all+roles;96%25+accuracy+PCB+Defect+Classifier+shipped+to+production;Multi-Agent+systems+via+LangChain+and+CrewAI;MERN+%2B+PyTorch+%2B+Docker+%2B+AWS+%E2%80%94+full+cycle+delivery;Open+to+Opportunities+%E2%80%94+Let%27s+build+something+extraordinary" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- SOCIAL LINKS -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1a0d?style=for-the-badge&logo=linkedin&logoColor=a3e635)](https://www.linkedin.com/in/vaishnavi-s-629813269/)&nbsp;
@@ -25,11 +40,16 @@
 
 <br/>
 
----
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-## ◈ &nbsp; WHO AM I
+<!-- ████████████████████  WHO AM I  ████████████████████ -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=320&lines=%E2%97%88+WHO+AM+I" alt="Who Am I"/>
+</h2>
 
 <br/>
 
@@ -39,18 +59,18 @@
 ```python
 class Vaishnavi:
 
-    role     = "Gen-AI × ML × Full-Stack Engineer"
+    role     = "Gen-AI x ML x Full-Stack Engineer"
     degree   = "B.E. Computer Science — Class of 2026"
-    status   = "✦  Open to Opportunities"
+    status   = "Open to Opportunities"
 
     experience = {
         "internships" : 5,
-        "companies"   : ["Infosys","Innomatics","+3 more"],
+        "companies"   : ["Infosys", "Innomatics", "+3 more"],
         "recognition" : "Top Performer — all roles",
     }
 
-    flagship  = "PCB Defect Classifier  →  96% accuracy"
-    hackathon = "MSME IDEA 5.0  →  RentMate"
+    flagship  = "PCB Defect Classifier  ->  96% accuracy"
+    hackathon = "MSME IDEA 5.0  ->  RentMate"
 
     focus = [
         "RAG + Agentic AI Pipelines",
@@ -65,18 +85,24 @@ class Vaishnavi:
 </td>
 <td width="48%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=donut&theme=chartreuse-dark&hide_border=true&title_color=a3e635&text_color=d9f99d&bg_color=0a0a0a&langs_count=8&border_radius=8" width="96%"/>
+<!-- Top langs: cache_seconds prevents rate-limit blank renders -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=donut&theme=chartreuse-dark&hide_border=true&title_color=a3e635&text_color=d9f99d&bg_color=0a0a0a&langs_count=8&border_radius=8&cache_seconds=86400" width="96%"/>
 
 </td>
 </tr></table>
 
 <br/>
 
----
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-## ◈ &nbsp; TECH ARSENAL
+<!-- ████████████████████  TECH ARSENAL  ████████████████████ -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=360&lines=%E2%97%88+TECH+ARSENAL" alt="Tech Arsenal"/>
+</h2>
 
 <br/>
 
@@ -140,18 +166,25 @@ class Vaishnavi:
 
 <br/>
 
-<!-- WORKING skill showcase — typing SVG cycling through stack stats, no block chars -->
+<!-- Stack cycling typing SVG -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2800&pause=1000&color=86EFAC&center=true&vCenter=true&width=560&lines=Python+%7C+LangChain+%7C+CrewAI+%E2%80%94+Core+AI+Stack;PyTorch+%7C+EfficientNet+%7C+OpenCV+%E2%80%94+Computer+Vision;React+%7C+Node.js+%7C+MongoDB+%E2%80%94+Full+Stack;Docker+%7C+AWS+%7C+FastAPI+%E2%80%94+Deployment+Layer;FAISS+%7C+Chroma+%7C+HuggingFace+%E2%80%94+RAG+Stack" alt="Tech Stack Cycling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2800&pause=1000&color=86EFAC&center=true&vCenter=true&width=560&lines=Python+%7C+LangChain+%7C+CrewAI+%E2%80%94+Core+AI+Stack;PyTorch+%7C+EfficientNet+%7C+OpenCV+%E2%80%94+Computer+Vision;React+%7C+Node.js+%7C+MongoDB+%E2%80%94+Full+Stack;Docker+%7C+AWS+%7C+FastAPI+%E2%80%94+Deployment+Layer;FAISS+%7C+Chroma+%7C+HuggingFace+%E2%80%94+RAG+Stack" alt="Stack Cycling" />
 </div>
 
 <br/>
 
----
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-## ◈ &nbsp; PROJECT DOSSIER
+<!-- ████████████████████  PROJECT DOSSIER  ████████████████████ -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=420&lines=%E2%97%88+PROJECT+DOSSIER" alt="Project Dossier"/>
+</h2>
+
+<br/>
 
 <details open>
 <summary><b>&nbsp;▸ &nbsp; 🤖 &nbsp; AI · Gen-AI · Security Systems</b></summary>
@@ -194,19 +227,24 @@ class Vaishnavi:
 
 <br/>
 
----
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-## ◈ &nbsp; SIGNAL METRICS
+<!-- ████████████████████  SIGNAL METRICS  ████████████████████ -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=400&lines=%E2%97%88+SIGNAL+METRICS" alt="Signal Metrics"/>
+</h2>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=a3e635&icon_color=a3e635&text_color=d9f99d&bg_color=0a0a0a&ring_color=a3e635&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=a3e635&icon_color=a3e635&text_color=d9f99d&bg_color=0a0a0a&ring_color=a3e635&include_all_commits=true&count_private=true&cache_seconds=86400" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f" height="175"/>
 
 </div>
 
@@ -218,25 +256,35 @@ class Vaishnavi:
 
 <br/>
 
----
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-## ◈ &nbsp; TROPHY SHELF
+<!-- ████████████████████  TROPHY SHELF  ████████████████████ -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=400&lines=%E2%97%88+TROPHY+SHELF" alt="Trophy Shelf"/>
+</h2>
 
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishu-Develops&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+<!-- column=-1 = auto-fit based on actual trophies earned, no-bg=false for dark bg support -->
+<img src="https://github-profile-trophy.vercel.app/?username=Vaishu-Develops&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" width="100%"/>
+
 </div>
 
 <br/>
 
----
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<!-- FOOTER: working typing SVG, ASCII-safe chars only -->
+<!-- ████████████████████  FOOTER  ████████████████████ -->
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3200&pause=1100&color=86EFAC&center=true&vCenter=true&width=620&lines=open+to+collaborate+%C2%B7+open+to+build+%C2%B7+open+to+break+things;if+it+compiles%2C+ship+it.+if+it+doesn%27t%2C+fix+it.;building+tomorrow%27s+intelligence%2C+one+commit+at+a+time." alt="Footer" />
