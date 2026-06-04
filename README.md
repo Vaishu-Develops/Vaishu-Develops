@@ -1,29 +1,26 @@
-<!-- ██████████████████████████████████████████████████
-     HEADER — text SVG rendered inline, no external service
-     ██████████████████████████████████████████████████ -->
-
+<!-- ============================================================
+     HEADER — capsule-render is on its own infra, works fine
+     ============================================================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d06,30:0a1a0a,60:112611,100:0a0a0a&height=300&section=header&text=VAISHNAVI%20S.&fontSize=82&fontColor=a3e635&fontAlignY=55&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=73&descAlign=50&descSize=17&descFontColor=86efac&stroke=a3e635&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d06,30:0a1a0a,60:112611,100:0a0a0a&height=290&section=header&text=VAISHNAVI%20S.&fontSize=80&fontColor=a3e635&fontAlignY=54&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=72&descAlign=50&descSize=17&descFontColor=86efac&stroke=a3e635&strokeWidth=1" width="100%"/>
 
 </div>
 
-<!-- STATUS BAR -->
+<!-- STATUS STRIP -->
 <div align="center">
 
-![Status](https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Opportunities-0d1a0d?style=for-the-badge&logoColor=a3e635&labelColor=0d1a0d&color=1a3a1a)
-&nbsp;
-![Degree](https://img.shields.io/badge/B.E.%20Computer%20Science%20%E2%80%94%20Class%20of%202026-0d1a0d?style=for-the-badge&labelColor=0d1a0d&color=1a3a1a)
-&nbsp;
-![Internships](https://img.shields.io/badge/5%C3%97%20Internships%20%E2%80%94%20Top%20Performer-0d1a0d?style=for-the-badge&labelColor=0d1a0d&color=1a3a1a)
+![](https://img.shields.io/badge/%E2%9C%A6_Open_to_Opportunities-1a3a1a?style=flat-square&labelColor=0d1a0d)&nbsp;
+![](https://img.shields.io/badge/B.E._CS_%E2%80%94_Class_of_2026-1a3a1a?style=flat-square&labelColor=0d1a0d)&nbsp;
+![](https://img.shields.io/badge/5%C3%97_Internships_%E2%80%94_Top_Performer-1a3a1a?style=flat-square&labelColor=0d1a0d)
 
 </div>
 
 <br/>
 
-<!-- MAIN TYPING SVG — single-line cycling, ASCII-safe only -->
+<!-- MAIN TYPING SVG — self-hosted, committed to profile repo -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=680&lines=Building+RAG+pipelines+and+Agentic+AI+from+scratch;5x+Internships+%E2%80%94+Infosys+%7C+Innomatics+%7C+Top+Performer+across+all+roles;96%25+accuracy+PCB+Defect+Classifier+shipped+to+production;Multi-Agent+systems+via+LangChain+and+CrewAI;MERN+%2B+PyTorch+%2B+Docker+%2B+AWS+%E2%80%94+full+cycle+delivery;Open+to+Opportunities+%E2%80%94+Let%27s+build+something+extraordinary" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/typing-main.svg" alt="Typing animation" width="680"/>
 </div>
 
 <br/>
@@ -39,22 +36,16 @@
 </div>
 
 <br/>
-
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br/>
 
-<!-- ████████████████████  WHO AM I  ████████████████████ -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=320&lines=%E2%97%88+WHO+AM+I" alt="Who Am I"/>
-</h2>
-
-<br/>
+<!-- ============================================================
+     WHO AM I
+     ============================================================ -->
+<h2>◈ &nbsp;WHO AM I</h2>
 
 <table width="100%"><tr>
-<td width="52%" valign="top">
+<td width="54%" valign="top">
 
 ```python
 class Vaishnavi:
@@ -83,28 +74,32 @@ class Vaishnavi:
 ```
 
 </td>
-<td width="48%" valign="top" align="center">
+<td width="46%" valign="top" align="center">
 
-<!-- Top langs: cache_seconds prevents rate-limit blank renders -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishu-Develops&layout=donut&theme=chartreuse-dark&hide_border=true&title_color=a3e635&text_color=d9f99d&bg_color=0a0a0a&langs_count=8&border_radius=8&cache_seconds=86400" width="96%"/>
+**Most Used Languages**<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/Vaishu-Develops?label=Followers&style=flat-square&color=a3e635&labelColor=0d1a0d&logo=github)](https://github.com/Vaishu-Develops)&nbsp;
+[![Stars](https://img.shields.io/github/stars/Vaishu-Develops?label=Stars&style=flat-square&color=a3e635&labelColor=0d1a0d&logo=github)](https://github.com/Vaishu-Develops)
 
 </td>
 </tr></table>
 
 <br/>
-
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br/>
 
-<!-- ████████████████████  TECH ARSENAL  ████████████████████ -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=360&lines=%E2%97%88+TECH+ARSENAL" alt="Tech Arsenal"/>
-</h2>
-
-<br/>
+<!-- ============================================================
+     TECH ARSENAL
+     ============================================================ -->
+<h2>◈ &nbsp;TECH ARSENAL</h2>
 
 <div align="center">
 <table>
@@ -112,10 +107,7 @@ class Vaishnavi:
 <td align="center" width="33%">
 
 **`[ COGNITIVE LAYER ]`**<br/>
-*Gen-AI & LLMs*
-
-<br/>
-
+*Gen-AI & LLMs*<br/><br/>
 ![Python](https://img.shields.io/badge/Python-a3e635?style=flat-square&logo=python&logoColor=0a0a0a)
 ![PyTorch](https://img.shields.io/badge/PyTorch-a3e635?style=flat-square&logo=pytorch&logoColor=0a0a0a)
 ![LangChain](https://img.shields.io/badge/LangChain-a3e635?style=flat-square&logo=chainlink&logoColor=0a0a0a)
@@ -129,10 +121,7 @@ class Vaishnavi:
 <td align="center" width="33%">
 
 **`[ SYSTEMS LAYER ]`**<br/>
-*Full-Stack & APIs*
-
-<br/>
-
+*Full-Stack & APIs*<br/><br/>
 ![React](https://img.shields.io/badge/React-65a30d?style=flat-square&logo=react&logoColor=0a0a0a)
 ![Node.js](https://img.shields.io/badge/Node.js-65a30d?style=flat-square&logo=nodedotjs&logoColor=0a0a0a)
 ![MongoDB](https://img.shields.io/badge/MongoDB-65a30d?style=flat-square&logo=mongodb&logoColor=0a0a0a)
@@ -146,10 +135,7 @@ class Vaishnavi:
 <td align="center" width="33%">
 
 **`[ INFRA LAYER ]`**<br/>
-*Deployment & Data*
-
-<br/>
-
+*Deployment & Data*<br/><br/>
 ![Docker](https://img.shields.io/badge/Docker-3f6212?style=flat-square&logo=docker&logoColor=d9f99d)
 ![AWS](https://img.shields.io/badge/AWS-3f6212?style=flat-square&logo=amazonwebservices&logoColor=d9f99d)
 ![Git](https://img.shields.io/badge/Git-3f6212?style=flat-square&logo=git&logoColor=d9f99d)
@@ -166,30 +152,23 @@ class Vaishnavi:
 
 <br/>
 
-<!-- Stack cycling typing SVG -->
+<!-- Stack cycling — self-hosted -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2800&pause=1000&color=86EFAC&center=true&vCenter=true&width=560&lines=Python+%7C+LangChain+%7C+CrewAI+%E2%80%94+Core+AI+Stack;PyTorch+%7C+EfficientNet+%7C+OpenCV+%E2%80%94+Computer+Vision;React+%7C+Node.js+%7C+MongoDB+%E2%80%94+Full+Stack;Docker+%7C+AWS+%7C+FastAPI+%E2%80%94+Deployment+Layer;FAISS+%7C+Chroma+%7C+HuggingFace+%E2%80%94+RAG+Stack" alt="Stack Cycling" />
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/typing-stack.svg" alt="Stack cycling" width="560"/>
 </div>
 
 <br/>
-
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br/>
 
-<!-- ████████████████████  PROJECT DOSSIER  ████████████████████ -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=420&lines=%E2%97%88+PROJECT+DOSSIER" alt="Project Dossier"/>
-</h2>
-
-<br/>
+<!-- ============================================================
+     PROJECT DOSSIER
+     ============================================================ -->
+<h2>◈ &nbsp;PROJECT DOSSIER</h2>
 
 <details open>
 <summary><b>&nbsp;▸ &nbsp; 🤖 &nbsp; AI · Gen-AI · Security Systems</b></summary>
 <br/>
-
 <div align="center">
 
 | &nbsp; | Project | What It Does | Stack |
@@ -209,7 +188,6 @@ class Vaishnavi:
 <details open>
 <summary><b>&nbsp;▸ &nbsp; 🌐 &nbsp; MERN · Full-Stack Systems</b></summary>
 <br/>
-
 <div align="center">
 
 | &nbsp; | Project | What It Does | Stack |
@@ -226,71 +204,77 @@ class Vaishnavi:
 </details>
 
 <br/>
-
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br/>
 
-<!-- ████████████████████  SIGNAL METRICS  ████████████████████ -->
+<!-- ============================================================
+     SIGNAL METRICS
+     ============================================================ -->
+<h2>◈ &nbsp;SIGNAL METRICS</h2>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=400&lines=%E2%97%88+SIGNAL+METRICS" alt="Signal Metrics"/>
-</h2>
-
-<br/>
-
+<!-- LIVE STAT BADGES via shields.io — Cloudflare CDN, zero quota issues -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaishu-Develops&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=a3e635&icon_color=a3e635&text_color=d9f99d&bg_color=0a0a0a&ring_color=a3e635&include_all_commits=true&count_private=true&cache_seconds=86400" height="175"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f" height="175"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaishu-Develops&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=a3e635&labelColor=0d1a0d&logo=github)&nbsp;
+![Followers](https://img.shields.io/github/followers/Vaishu-Develops?label=Followers&style=for-the-badge&color=a3e635&labelColor=0d1a0d&logo=github)&nbsp;
+![Stars](https://img.shields.io/github/stars/Vaishu-Develops?label=Total%20Stars&style=for-the-badge&color=a3e635&labelColor=0d1a0d&logo=github)&nbsp;
+![Internships](https://img.shields.io/badge/Internships-5%C3%97-a3e635?style=for-the-badge&labelColor=0d1a0d)&nbsp;
+![Accuracy](https://img.shields.io/badge/PCB%20Classifier-96%25%20Acc-a3e635?style=for-the-badge&labelColor=0d1a0d)
 
 </div>
 
 <br/>
 
+<!-- STREAK — demolab.com, stable -->
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f&border_radius=8" width="58%"/>
+</div>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaishu-Develops&bg_color=0a0a0a&color=a3e635&line=65a30d&point=d9f99d&area=true&area_color=3f6212&hide_border=true&custom_title=Contribution+Graph&radius=4" width="98%"/>
 </div>
 
 <br/>
-
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br/>
 
-<!-- ████████████████████  TROPHY SHELF  ████████████████████ -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=4000&pause=50000&color=A3E635&center=true&vCenter=true&width=400&lines=%E2%97%88+TROPHY+SHELF" alt="Trophy Shelf"/>
-</h2>
-
-<br/>
+<!-- ============================================================
+     ACHIEVEMENTS
+     ============================================================ -->
+<h2>◈ &nbsp;ACHIEVEMENTS</h2>
 
 <div align="center">
 
-<!-- column=-1 = auto-fit based on actual trophies earned, no-bg=false for dark bg support -->
-<img src="https://github-profile-trophy.vercel.app/?username=Vaishu-Develops&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1" width="100%"/>
+![PCB](https://img.shields.io/badge/%F0%9F%8F%86_PCB_Defect_Classifier-96%25_Accuracy_%E2%80%94_Production_Shipped-a3e635?style=for-the-badge&labelColor=0d1a0d)
+
+![Hackathon](https://img.shields.io/badge/%F0%9F%8F%86_MSME_IDEA_Hackathon_5.0-RentMate_%E2%80%94_Finalist-a3e635?style=for-the-badge&labelColor=0d1a0d)
+
+![Infosys](https://img.shields.io/badge/%F0%9F%8F%86_Infosys-Top_Performer_Recognition-a3e635?style=for-the-badge&labelColor=0d1a0d)
+
+![Innomatics](https://img.shields.io/badge/%F0%9F%8F%86_Innomatics_Research_Labs-Top_Performer_Recognition-a3e635?style=for-the-badge&labelColor=0d1a0d)
+
+![5x](https://img.shields.io/badge/%F0%9F%8F%86_5%C3%97_Internships-Top_Performer_Across_All_Roles-a3e635?style=for-the-badge&labelColor=0d1a0d)
+
+![Agents](https://img.shields.io/badge/%F0%9F%8F%86_Multi_Agent_Systems-LangChain_%2B_CrewAI_%2B_Llama_4-a3e635?style=for-the-badge&labelColor=0d1a0d)
 
 </div>
 
 <br/>
-
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br/>
 
-<!-- ████████████████████  FOOTER  ████████████████████ -->
-
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=3200&pause=1100&color=86EFAC&center=true&vCenter=true&width=620&lines=open+to+collaborate+%C2%B7+open+to+build+%C2%B7+open+to+break+things;if+it+compiles%2C+ship+it.+if+it+doesn%27t%2C+fix+it.;building+tomorrow%27s+intelligence%2C+one+commit+at+a+time." alt="Footer" />
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/typing-footer.svg" alt="Footer" width="620"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:162e16,50:0f2a0f,100:0a0a0a&height=140&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:091509,100:060d06&height=120&section=footer&reversal=true" width="100%"/>
 
 </div>
