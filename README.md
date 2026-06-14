@@ -1,6 +1,4 @@
-<!-- ============================================================
-     HEADER — capsule-render is on its own infra, works fine
-     ============================================================ -->
+<!-- HEADER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d06,30:0a1a0a,60:112611,100:0a0a0a&height=290&section=header&text=VAISHNAVI%20S.&fontSize=80&fontColor=a3e635&fontAlignY=54&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=72&descAlign=50&descSize=17&descFontColor=86efac&stroke=a3e635&strokeWidth=1" width="100%"/>
@@ -18,9 +16,11 @@
 
 <br/>
 
-<!-- MAIN TYPING SVG — self-hosted, committed to profile repo -->
+<!-- TYPING ANIMATION — replace with readme-typing-svg (reliable, no self-hosting needed) -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/typing-main.svg" alt="Typing animation" width="680"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A3E635&background=0A0A0A00&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Building+intelligent+systems+%F0%9F%94%A7;Turning+ideas+into+production+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
@@ -39,9 +39,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <br/>
 
-<!-- ============================================================
-     WHO AM I
-     ============================================================ -->
+<!-- WHO AM I -->
 <h2>◈ &nbsp;WHO AM I</h2>
 
 <table width="100%"><tr>
@@ -76,13 +74,13 @@ class Vaishnavi:
 </td>
 <td width="46%" valign="top" align="center">
 
-**Most Used Languages**<br/><br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="coding gif"/>
+
+<br/>
+
+![Status](https://img.shields.io/badge/%E2%96%B6_Currently_Building-a3e635?style=flat-square&labelColor=0d1a0d)
+
+`Multi-Agent Stock Analyzer` &nbsp;·&nbsp; `RAG Pipelines`
 
 <br/>
 
@@ -96,9 +94,7 @@ class Vaishnavi:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <br/>
 
-<!-- ============================================================
-     TECH ARSENAL
-     ============================================================ -->
+<!-- TECH ARSENAL -->
 <h2>◈ &nbsp;TECH ARSENAL</h2>
 
 <div align="center">
@@ -152,18 +148,18 @@ class Vaishnavi:
 
 <br/>
 
-<!-- Stack cycling — self-hosted -->
+<!-- STACK CYCLING — replaced with reliable readme-typing-svg -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/typing-stack.svg" alt="Stack cycling" width="560"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=800&color=86EFAC&background=0D1A0D00&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=LangChain+%2B+CrewAI+%E2%86%92+Multi-Agent+Pipelines;EfficientNet+%2B+FAISS+%E2%86%92+Vision+%2B+RAG+Systems;FastAPI+%2B+Docker+%E2%86%92+Production+Deployment;MERN+%2B+Socket.io+%E2%86%92+Real-time+Apps)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <br/>
 
-<!-- ============================================================
-     PROJECT DOSSIER
-     ============================================================ -->
+<!-- PROJECT DOSSIER -->
 <h2>◈ &nbsp;PROJECT DOSSIER</h2>
 
 <details open>
@@ -207,25 +203,22 @@ class Vaishnavi:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <br/>
 
-<!-- ============================================================
-     SIGNAL METRICS
-     ============================================================ -->
+<!-- SIGNAL METRICS -->
 <h2>◈ &nbsp;SIGNAL METRICS</h2>
 
-<!-- LIVE STAT BADGES via shields.io — Cloudflare CDN, zero quota issues -->
 <div align="center">
 
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FVaishu-Develops&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=a3e635&labelColor=0d1a0d&logo=github)&nbsp;
 ![Followers](https://img.shields.io/github/followers/Vaishu-Develops?label=Followers&style=for-the-badge&color=a3e635&labelColor=0d1a0d&logo=github)&nbsp;
 ![Stars](https://img.shields.io/github/stars/Vaishu-Develops?label=Total%20Stars&style=for-the-badge&color=a3e635&labelColor=0d1a0d&logo=github)&nbsp;
-![Internships](https://img.shields.io/badge/Internships-5%C3%97-a3e635?style=for-the-badge&labelColor=0d1a0d)&nbsp;
+![Internships](https://img.shields.io/badge/Internships-5x-a3e635?style=for-the-badge&labelColor=0d1a0d)&nbsp;
 ![Accuracy](https://img.shields.io/badge/PCB%20Classifier-96%25%20Acc-a3e635?style=for-the-badge&labelColor=0d1a0d)
 
 </div>
 
 <br/>
 
-<!-- STREAK — demolab.com, stable -->
+<!-- STREAK -->
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f&border_radius=8" width="58%"/>
 </div>
@@ -241,24 +234,27 @@ class Vaishnavi:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <br/>
 
-<!-- ============================================================
-     ACHIEVEMENTS
-     ============================================================ -->
-<h2>◈ &nbsp;ACHIEVEMENTS</h2>
+<!-- CURRENT FOCUS -->
+<h2>◈ &nbsp;CURRENT FOCUS</h2>
 
 <div align="center">
 
-![PCB](https://img.shields.io/badge/%F0%9F%8F%86_PCB_Defect_Classifier-96%25_Accuracy_%E2%80%94_Production_Shipped-a3e635?style=for-the-badge&labelColor=0d1a0d)
+| Status | Area | What I'm Exploring |
+|:---:|:---|:---|
+| `🟢 Active` | **Agentic AI** | Multi-agent orchestration with LangGraph + CrewAI for autonomous financial research |
+| `🟢 Active` | **LLM Systems** | RAG pipeline optimization — hybrid search, rerankers, context compression |
+| `🔵 Learning` | **MLOps** | Model serving at scale — vLLM, Triton Inference Server, quantization (GGUF / AWQ) |
+| `🔵 Learning` | **Fine-tuning** | LoRA / QLoRA on domain-specific datasets using Unsloth + HuggingFace PEFT |
+| `🟡 Next` | **AI Safety** | Guardrails, hallucination detection & adversarial robustness in production LLMs |
+| `🟡 Next` | **Edge AI** | Deploying lightweight CV models on Raspberry Pi + ONNX runtime |
 
-![Hackathon](https://img.shields.io/badge/%F0%9F%8F%86_MSME_IDEA_Hackathon_5.0-RentMate_%E2%80%94_Finalist-a3e635?style=for-the-badge&labelColor=0d1a0d)
+</div>
 
-![Infosys](https://img.shields.io/badge/%F0%9F%8F%86_Infosys-Top_Performer_Recognition-a3e635?style=for-the-badge&labelColor=0d1a0d)
+<br/>
 
-![Innomatics](https://img.shields.io/badge/%F0%9F%8F%86_Innomatics_Research_Labs-Top_Performer_Recognition-a3e635?style=for-the-badge&labelColor=0d1a0d)
+<div align="center">
 
-![5x](https://img.shields.io/badge/%F0%9F%8F%86_5%C3%97_Internships-Top_Performer_Across_All_Roles-a3e635?style=for-the-badge&labelColor=0d1a0d)
-
-![Agents](https://img.shields.io/badge/%F0%9F%8F%86_Multi_Agent_Systems-LangChain_%2B_CrewAI_%2B_Llama_4-a3e635?style=for-the-badge&labelColor=0d1a0d)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2000&pause=600&color=86EFAC&background=0D1A0D00&center=true&vCenter=true&multiline=false&repeat=true&width=580&height=36&lines=Currently+obsessed+with+%E2%86%92+LangGraph+%2B+vLLM+%2B+LoRA;Ask+me+about+%E2%86%92+RAG+%7C+Agents+%7C+Computer+Vision+%7C+MERN)](https://git.io/typing-svg)
 
 </div>
 
@@ -266,12 +262,10 @@ class Vaishnavi:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 <br/>
 
-<!-- ============================================================
-     FOOTER
-     ============================================================ -->
+<!-- FOOTER -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/typing-footer.svg" alt="Footer" width="620"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=4000&pause=2000&color=A3E635&background=0A0A0A00&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=55&lines=%E2%9A%A1+Let%27s+build+something+extraordinary+together;vaishnavisudarsanam11%40gmail.com+%C2%B7+github.com%2FVaishu-Develops)](https://git.io/typing-svg)
 
 <br/><br/>
 
