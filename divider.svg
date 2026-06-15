@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" preserveAspectRatio="none" width="100%" height="30">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0a0a"/>
+      <stop offset="20%"  stop-color="#3f6212"/>
+      <stop offset="50%"  stop-color="#a3e635"/>
+      <stop offset="80%"  stop-color="#3f6212"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <!-- circuit-trace style: line + nodes + line -->
+  <line x1="0" y1="15" x2="1200" y2="15" stroke="url(#waveGrad)" stroke-width="1.2"/>
+  <!-- nodes at intervals -->
+  <circle cx="120"  cy="15" r="2.5" fill="#a3e635" opacity="0.6"/>
+  <circle cx="300"  cy="15" r="2.5" fill="#a3e635" opacity="0.8"/>
+  <circle cx="480"  cy="15" r="3.5" fill="#a3e635"/>
+  <circle cx="600"  cy="15" r="2"   fill="#d9f99d"/>
+  <circle cx="720"  cy="15" r="3.5" fill="#a3e635"/>
+  <circle cx="900"  cy="15" r="2.5" fill="#a3e635" opacity="0.8"/>
+  <circle cx="1080" cy="15" r="2.5" fill="#a3e635" opacity="0.6"/>
+  <!-- small tick marks above/below at nodes -->
+  <line x1="480" y1="9"  x2="480" y2="21" stroke="#a3e635" stroke-width="1" opacity="0.5"/>
+  <line x1="720" y1="9"  x2="720" y2="21" stroke="#a3e635" stroke-width="1" opacity="0.5"/>
+</svg>
