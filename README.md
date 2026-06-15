@@ -16,7 +16,7 @@
 
 <br/>
 
-<!-- TYPING ANIMATION — replace with readme-typing-svg (reliable, no self-hosting needed) -->
+<!-- TYPING ANIMATION -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A3E635&background=0A0A0A00&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=Building+intelligent+systems+%F0%9F%94%A7;Turning+ideas+into+production+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
@@ -36,7 +36,10 @@
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/divider.svg" width="100%"/>
+
 <br/>
 
 <!-- WHO AM I -->
@@ -91,7 +94,7 @@ class Vaishnavi:
 </tr></table>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/divider.svg" width="100%"/>
 <br/>
 
 <!-- TECH ARSENAL -->
@@ -148,7 +151,6 @@ class Vaishnavi:
 
 <br/>
 
-<!-- STACK CYCLING — replaced with reliable readme-typing-svg -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=800&color=86EFAC&background=0D1A0D00&center=true&vCenter=true&multiline=false&repeat=true&width=560&height=40&lines=LangChain+%2B+CrewAI+%E2%86%92+Multi-Agent+Pipelines;EfficientNet+%2B+FAISS+%E2%86%92+Vision+%2B+RAG+Systems;FastAPI+%2B+Docker+%E2%86%92+Production+Deployment;MERN+%2B+Socket.io+%E2%86%92+Real-time+Apps)](https://git.io/typing-svg)
@@ -156,51 +158,86 @@ class Vaishnavi:
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/divider.svg" width="100%"/>
 <br/>
 
 <!-- PROJECT DOSSIER -->
 <h2>◈ &nbsp;PROJECT DOSSIER</h2>
 
-<details open>
-<summary><b>&nbsp;▸ &nbsp; 🤖 &nbsp; AI · Gen-AI · Security Systems</b></summary>
-<br/>
+<!-- AI PROJECTS — pinned repo cards 2-col grid -->
+<h3>&nbsp;🤖 &nbsp;AI · Gen-AI · Security Systems</h3>
+
 <div align="center">
 
-| &nbsp; | Project | What It Does | Stack |
-|:---:|:---|:---|:---|
-| `01` | [**Multi-Agent Stock Analyzer**](https://github.com/Vaishu-Develops/Multi-Agent-Stock-Analyzer) | Autonomous financial intelligence for US · Indian · EU markets via Llama 4 + SambaNova | LangChain · CrewAI · Llama 4 |
-| `02` | [**Deep Secure Steganography**](https://github.com/Vaishu-Develops/AI_Powered_Deep_Secure_Steganography_Generator) | Hides images & text inside cover media — Deep Learning + AES encryption | CNN · Flask · Python · AES |
-| `03` | [**SarpGuard**](https://github.com/Vaishu-Develops/SarpGuard) | Dual-layer AI snake detection & real-time alert via webcam / uploaded footage | TensorFlow · OpenCV · JS |
-| `04` | [**Gen-AI Code Reviewer**](https://github.com/Vaishu-Develops/Gen-AI-Code-reviewer) | Automated code quality & bug analysis powered by LLMs | Python · GenAI |
-| `05` | [**MentalHealth Chatbot**](https://github.com/Vaishu-Develops/MentalHealth-Chatbot) | Empathetic conversational AI for mental wellness support | Python · NLP · Transformers |
-| `06` | [**AITutor**](https://github.com/Vaishu-Develops/AITutor) | Personalized adaptive AI-driven tutoring system | Python · LLM |
+<a href="https://github.com/Vaishu-Develops/Multi-Agent-Stock-Analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=Multi-Agent-Stock-Analyzer&theme=github_dark&bg_color=0a0a0a&border_color=3f6212&title_color=a3e635&icon_color=65a30d&text_color=86efac&hide_border=false" width="47%"/>
+</a>&nbsp;
+<a href="https://github.com/Vaishu-Develops/AI_Powered_Deep_Secure_Steganography_Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=AI_Powered_Deep_Secure_Steganography_Generator&theme=github_dark&bg_color=0a0a0a&border_color=3f6212&title_color=a3e635&icon_color=65a30d&text_color=86efac&hide_border=false" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Vaishu-Develops/SarpGuard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=SarpGuard&theme=github_dark&bg_color=0a0a0a&border_color=3f6212&title_color=a3e635&icon_color=65a30d&text_color=86efac&hide_border=false" width="47%"/>
+</a>&nbsp;
+<a href="https://github.com/Vaishu-Develops/Gen-AI-Code-reviewer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=Gen-AI-Code-reviewer&theme=github_dark&bg_color=0a0a0a&border_color=3f6212&title_color=a3e635&icon_color=65a30d&text_color=86efac&hide_border=false" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Vaishu-Develops/MentalHealth-Chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=MentalHealth-Chatbot&theme=github_dark&bg_color=0a0a0a&border_color=3f6212&title_color=a3e635&icon_color=65a30d&text_color=86efac&hide_border=false" width="47%"/>
+</a>&nbsp;
+<a href="https://github.com/Vaishu-Develops/AITutor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=AITutor&theme=github_dark&bg_color=0a0a0a&border_color=3f6212&title_color=a3e635&icon_color=65a30d&text_color=86efac&hide_border=false" width="47%"/>
+</a>
 
 </div>
-</details>
 
 <br/>
 
-<details open>
-<summary><b>&nbsp;▸ &nbsp; 🌐 &nbsp; MERN · Full-Stack Systems</b></summary>
-<br/>
+<!-- MERN PROJECTS — pinned repo cards 2-col grid -->
+<h3>&nbsp;🌐 &nbsp;MERN · Full-Stack Systems</h3>
+
 <div align="center">
 
-| &nbsp; | Project | What It Does | Stack |
-|:---:|:---|:---|:---|
-| `01` | [**SyncSpace**](https://github.com/Vaishu-Develops/SyncSpace) | Real-time collab hub — Kanban · live docs · chat · file versioning | MERN · Socket.io |
-| `02` | [**GigConnect**](https://github.com/Vaishu-Develops/GigConnect) | Hyperlocal freelance marketplace · dual-role auth · real-time chat | MERN · JWT |
-| `03` | [**RentMate**](https://github.com/Vaishu-Develops/RentMate) | Rental ecosystem platform — MSME IDEA Hackathon 5.0 | MERN |
-| `04` | [**Payer Side Dashboard**](https://github.com/Vaishu-Develops/Payer_Side) | Healthcare SOC analytics platform for payer organizations | JS · Node.js |
-| `05` | [**AI Travel Planner**](https://github.com/Vaishu-Develops/AI-Powered-Travel_Planner) | AI-generated itinerary planner with dynamic routing | Python · Flask · GenAI |
-| `06` | [**Blog Platform**](https://github.com/Vaishu-Develops/blog-platform) | Full-featured engine — auth · rich text · file uploads | TypeScript · MERN |
-| `07` | [**Food Ordering Web**](https://github.com/Vaishu-Develops/Food-Ordering-Web) | End-to-end food ordering & delivery application | JavaScript |
+<a href="https://github.com/Vaishu-Develops/SyncSpace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=SyncSpace&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>&nbsp;
+<a href="https://github.com/Vaishu-Develops/GigConnect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=GigConnect&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Vaishu-Develops/RentMate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=RentMate&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>&nbsp;
+<a href="https://github.com/Vaishu-Develops/Payer_Side">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=Payer_Side&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Vaishu-Develops/AI-Powered-Travel_Planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=AI-Powered-Travel_Planner&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>&nbsp;
+<a href="https://github.com/Vaishu-Develops/blog-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=blog-platform&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Vaishu-Develops/Food-Ordering-Web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaishu-Develops&repo=Food-Ordering-Web&theme=github_dark&bg_color=0a0a0a&border_color=1a4d1a&title_color=65a30d&icon_color=a3e635&text_color=86efac&hide_border=false" width="47%"/>
+</a>
 
 </div>
-</details>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/divider.svg" width="100%"/>
 <br/>
 
 <!-- SIGNAL METRICS -->
@@ -218,9 +255,19 @@ class Vaishnavi:
 
 <br/>
 
-<!-- STREAK -->
+<!-- STREAK + SPOTIFY side by side -->
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f&border_radius=8" width="58%"/>
+<table width="100%"><tr>
+<td width="60%" align="center">
+<img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f&border_radius=8" width="100%"/>
+</td>
+<td width="40%" align="center" valign="middle">
+
+<!-- SPOTIFY VIBE CARD — decorative; connect novatorem/nocturne when ready -->
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/spotify-placeholder.svg" width="220" alt="Spotify"/>
+
+</td>
+</tr></table>
 </div>
 
 <br/>
@@ -231,7 +278,7 @@ class Vaishnavi:
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/divider.svg" width="100%"/>
 <br/>
 
 <!-- CURRENT FOCUS -->
@@ -259,7 +306,7 @@ class Vaishnavi:
 </div>
 
 <br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/divider.svg" width="100%"/>
 <br/>
 
 <!-- FOOTER -->
