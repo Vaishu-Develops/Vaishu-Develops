@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1a0d"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a3e635"/>
+      <stop offset="100%" stop-color="#3f6212"/>
+    </linearGradient>
+    <!-- pulse animation for the bars -->
+    <style>
+      .b1 { animation: pulse1 1.1s ease-in-out infinite; transform-origin: bottom; }
+      .b2 { animation: pulse2 0.9s ease-in-out infinite; transform-origin: bottom; }
+      .b3 { animation: pulse3 1.3s ease-in-out infinite; transform-origin: bottom; }
+      .b4 { animation: pulse1 0.8s ease-in-out infinite; transform-origin: bottom; }
+      .b5 { animation: pulse2 1.2s ease-in-out infinite; transform-origin: bottom; }
+      @keyframes pulse1 { 0%,100%{transform:scaleY(1)} 50%{transform:scaleY(0.4)} }
+      @keyframes pulse2 { 0%,100%{transform:scaleY(0.5)} 50%{transform:scaleY(1)} }
+      @keyframes pulse3 { 0%,100%{transform:scaleY(0.7)} 50%{transform:scaleY(0.3)} }
+      .dot { animation: blink 2s ease-in-out infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.3} }
+    </style>
+  </defs>
+
+  <!-- card background -->
+  <rect width="220" height="80" rx="10" fill="url(#cardBg)" stroke="#1a3a1a" stroke-width="1"/>
+
+  <!-- spotify icon (simplified) -->
+  <circle cx="22" cy="22" r="10" fill="#1DB954"/>
+  <path d="M16 20 Q22 17 28 20" stroke="#0a0a0a" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <path d="M17 23 Q22 20.5 27 23" stroke="#0a0a0a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M18 26 Q22 24 26 26" stroke="#0a0a0a" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+
+  <!-- label -->
+  <text x="38" y="18" font-family="monospace" font-size="8" fill="#86efac" font-weight="600">SPOTIFY</text>
+  <circle cx="88" cy="15" r="2.5" fill="#1DB954" class="dot"/>
+  <text x="94" y="18" font-family="monospace" font-size="7" fill="#4d7c0f">LIVE</text>
+
+  <!-- track info -->
+  <text x="38" y="30" font-family="monospace" font-size="9" fill="#a3e635" font-weight="700">Coding in the dark</text>
+  <text x="38" y="41" font-family="monospace" font-size="7.5" fill="#65a30d">Lo-fi Beats · Focus Mode</text>
+
+  <!-- progress bar -->
+  <rect x="14" y="52" width="192" height="3" rx="2" fill="#1a3a1a"/>
+  <rect x="14" y="52" width="112" height="3" rx="2" fill="#a3e635"/>
+  <circle cx="126" cy="53.5" r="4" fill="#a3e635"/>
+
+  <!-- time -->
+  <text x="14" y="68" font-family="monospace" font-size="7" fill="#4d7c0f">1:52</text>
+  <text x="192" y="68" font-family="monospace" font-size="7" fill="#4d7c0f">3:24</text>
+
+  <!-- equalizer bars -->
+  <g transform="translate(150, 55)">
+    <rect class="b1" x="0"  y="0" width="4" height="14" rx="2" fill="url(#barGrad)" transform="translate(0,0) scale(1,-1) translate(0,-14)"/>
+    <rect class="b2" x="6"  y="0" width="4" height="14" rx="2" fill="url(#barGrad)" transform="translate(0,0) scale(1,-1) translate(0,-14)"/>
+    <rect class="b3" x="12" y="0" width="4" height="14" rx="2" fill="url(#barGrad)" transform="translate(0,0) scale(1,-1) translate(0,-14)"/>
+    <rect class="b4" x="18" y="0" width="4" height="14" rx="2" fill="url(#barGrad)" transform="translate(0,0) scale(1,-1) translate(0,-14)"/>
+    <rect class="b5" x="24" y="0" width="4" height="14" rx="2" fill="url(#barGrad)" transform="translate(0,0) scale(1,-1) translate(0,-14)"/>
+  </g>
+</svg>
