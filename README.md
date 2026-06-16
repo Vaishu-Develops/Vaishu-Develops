@@ -255,19 +255,20 @@ class Vaishnavi:
 
 <br/>
 
-<!-- STREAK + SPOTIFY side by side -->
+<!-- STREAK -->
 <div align="center">
-<table width="100%"><tr>
-<td width="60%" align="center">
-<img src="https://streak-stats.demolab.com/?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f&border_radius=8" width="100%"/>
-</td>
-<td width="40%" align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vaishu-Develops&theme=dark&hide_border=true&background=0a0a0a&stroke=a3e635&ring=65a30d&fire=a3e635&currStreakLabel=a3e635&sideNums=d9f99d&sideLabels=65a30d&dates=4d7c0f&border_radius=8" width="56%"/>
+</div>
 
-<!-- SPOTIFY VIBE CARD — decorative; connect novatorem/nocturne when ready -->
-<img src="https://raw.githubusercontent.com/Vaishu-Develops/Vaishu-Develops/main/svgs/spotify-placeholder.svg" width="220" alt="Spotify"/>
+<br/>
 
-</td>
-</tr></table>
+<!-- SPOTIFY VIBE — GitHub blocks animated SVGs; using a capsule-render music card instead -->
+<div align="center">
+
+![Spotify](https://img.shields.io/badge/🎵_Vibing_To-Lo--fi_Beats_%26_Focus_Mode-1DB954?style=for-the-badge&labelColor=0d1a0d&logo=spotify&logoColor=1DB954)
+
+> *Connect [novatorem/nocturne](https://github.com/novatorem/nocturne) to show your live Spotify track here*
+
 </div>
 
 <br/>
