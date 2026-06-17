@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d06,30:0a1a0a,60:112611,100:0a0a0a&height=290&section=header&text=VAISHNAVI%20S.&fontSize=80&fontColor=a3e635&fontAlignY=54&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=72&descAlign=50&descSize=17&descFontColor=86efac&stroke=a3e635&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060d06,30:0a1a0a,60:112611,100:0a0a0a&height=290&section=header&text=VAISHNAVI%20S&fontSize=80&fontColor=a3e635&fontAlignY=54&animation=fadeIn&fontAlign=50&desc=Generative+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Full-Stack+Engineer&descAlignY=72&descAlign=50&descSize=17&descFontColor=86efac&stroke=a3e635&strokeWidth=1" width="100%"/>
 
 </div>
 
